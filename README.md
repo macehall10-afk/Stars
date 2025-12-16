@@ -1,6 +1,6 @@
 # Stars
 <svg width="200" height="180" xmlns="http://www.w3.org/2000/svg">
-  <rect x="30" y="30" height="110" width="110" style="stroke:white;fill:white">
+  <circle cx="50" cy="50" r="50" width="110" style="stroke:white;fill:white">
     <animateTransform
       attributeName="transform"
       begin="0s"
